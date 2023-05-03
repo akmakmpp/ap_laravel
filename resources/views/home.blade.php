@@ -14,7 +14,7 @@
     <h5 class="card-title">{{$value->name}}</h5>
     <p class="card-text">{{$value->description}}</p>
     <a href="#" class="btn btn-primary">View</a>
-  </div>
+  </div><hr>
   @endforeach
 </div>
 </div>
